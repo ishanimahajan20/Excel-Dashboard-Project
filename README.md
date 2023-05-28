@@ -1,5 +1,5 @@
 # ExcelProject
->> CASE STUDY : Driving Sales Success:A Data-Driven Journey through our Dynamic Sales Dashboard
+# >> CASE STUDY : Driving Sales Success:A Data-Driven Journey through our Dynamic Sales Dashboard
 
 >> TABLE OF CONTENT :
  
@@ -22,10 +22,10 @@
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/6dddf744-74db-4ea8-9a0d-321a461e714a)
 
 2. For data cleaning check for any duplicates, null value. Since data we have is sorted.
-3. 
-4. Apply VLOOKUP at input data to extract data from master data. In reference to product ID.
-5. 
-6. ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/eb17701a-5217-4b41-b6f3-80fe0423fcec)
+ 
+3. Apply VLOOKUP at input data to extract data from master data. In reference to product ID.
+ 
+ ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/eb17701a-5217-4b41-b6f3-80fe0423fcec)
  
  ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/25fa4957-68d6-46d1-9b68-7783122b31d9)
  
