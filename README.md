@@ -50,11 +50,49 @@ As we are done with preparing database > we need to create Pivot tables.
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/da92d742-53b8-461f-861c-da9c5f866083)
 
 * MONTHLY EXPENSES
+
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/c6b3e4a5-ff60-4ba8-8f45-bdf0003550da)
 
 * PRODUCT ANALYSIS : Product is shown with respect to theie unit of measurement, selling price and quantity > keep pivot table in TABULAR FORM under Report Layout.
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/8f016c49-8f1b-4785-98f2-226d4a06a457)
+
+* YEARLY ANALYSIS 
+     
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/2884202b-6456-4294-a161-503d7d66b7fd)
+
+* CATEGORY ANALYSIS
+   
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/800354c9-bcd1-4687-b69c-4557f3222c9e)
+
+* PAYMENT MODE AND SALES TYPE
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/b2720038-7790-47e2-b882-66bb898002b1)
+
+*PREPARE VISUALS
+1. Add SLICERS IN DASHBOARD > LINK ALL SLICERS TO EVERY PIVOT TABLE
+2. Go To Slicer Tab> Report Connections> Select All Pivot Table We Want To Link.
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/fae364a8-ee7d-40ac-a2b7-a7ca95a98079)
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/8759c445-c4bd-49bb-b9a8-4c64ae23a18a)
+
+3. ADD AREA CHART FOR DAY WISE SALES :
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/691c7b54-7905-4959-8c60-fa43d917d063)
+
+4. CALCULATE TOTAL SALES, TOTAL PROFIT, PROFIT PERCENTAGE AND FORMAT CELL ON MONTHLY BASIS BY CONNECTING IT TO MONTHLY PIVOT TABLE :
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/62715af2-ce59-4780-acb4-839eb0ce2f94)
+To add bar chart with total sales, total profit and profit percentage we need to connect all values for dynamic use.
+From INSERT(DEVELOPER TAB)> Add 3 Checkboxes, so that we can show or hide sales, profit or profit%. We need to add if function into our cell to link true or false condition with the table value so that our column chart look presentable.
+
+
+
+
+
+
+
 
 
 
