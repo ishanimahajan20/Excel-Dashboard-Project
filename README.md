@@ -47,6 +47,7 @@ As we are done with preparing database > we need to create Pivot tables.
 1.Go to ANALYSIS New Sheet> Insert Pivot Table> Name each Pivot Table Accordingly.
 
 2.Create Pivot Table As Follow:
+
 * DAILY : Days with respect to Total selling price.
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/9b0c20dd-efd1-46ed-9b20-9e5176b2bdc9)
 
@@ -136,7 +137,21 @@ NOW INSERT THE CHART> FORMATTING>CONNECT WITH TABLE>FORMAT CHART
 
 10. 
 
+# DASHBOARD MAKING 
 
+Make a layout in powerpoint presentation.
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/de30e9db-f59f-4c34-bc48-65595f2fa103)
+>> Now copy paste the Layout on excel in another sheet and name that sheet as dashboard.
+>> Copy each presentable chart from Analysis sheet and Paste each table in new sheet named as Dashboard.
+>> Adjust the table in desired form.
+
+![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/807d5988-8761-4b09-b133-ffac85755980)
+
+>> Do Check your each table is dynamic and clear .
+
+# OUTCOMES:
+ 
 
 
 
