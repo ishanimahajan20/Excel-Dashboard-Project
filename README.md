@@ -1,9 +1,10 @@
 # ExcelProject
-# >> CASE STUDY : Driving Sales Success:A Data-Driven Journey through our Dynamic Sales Dashboard
 
->> TABLE OF CONTENT :
+## >> CASE STUDY : Driving Sales Success:A Data-Driven Journey through our Dynamic Sales Dashboard
+
+
  
-# 1. TASK-
+### 1. TASK-
 
 * Sales Performance Monitoring: Track and analyze sales data in real-time, including overall sales, individual product performance, and sales trends over time.
 
@@ -17,8 +18,10 @@
 
 * Data Visualization and Reporting: Create visually appealing and easy-to-understand dashboards, charts, and reports to effectively communicate sales performance and insights to stakeholders.
 
-# DATA SHEET OVERVIEW
+### DATA SHEET OVERVIEW
+
 1. We have 2 sheets to view, Set the Data in both Table with Table Name: MASTER DATA and INPUT DATA under TABLE DESIGN TAB .
+   
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/6dddf744-74db-4ea8-9a0d-321a461e714a)
 
 2. For data cleaning check for any duplicates, null value. Since data we have is sorted.
@@ -30,25 +33,27 @@
  ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/25fa4957-68d6-46d1-9b68-7783122b31d9)
  
 4. we have created few additional column:
-TOTAL SELLING PRICE,![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/773f8ab5-e26c-40ae-847d-43f441c5af31)
 
-TOTAL COST PRICE,![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/888842d9-0174-4766-a398-eb81b2a69e23)
+TOTAL SELLING PRICE,    ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/773f8ab5-e26c-40ae-847d-43f441c5af31)
+
+TOTAL COST PRICE,     ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/888842d9-0174-4766-a398-eb81b2a69e23)
  
-DAY ,![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/15d32ab0-a9cf-466e-bb74-747814383053)
+DAY ,    ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/15d32ab0-a9cf-466e-bb74-747814383053)
 
-MONTH ,![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/343270d4-37f3-44de-9d54-70e41be0c354)
+MONTH ,   ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/343270d4-37f3-44de-9d54-70e41be0c354)
 
-YEAR ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/8e82b880-7a29-4b1b-89ac-be5897a0283d)
+YEAR !    [image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/8e82b880-7a29-4b1b-89ac-be5897a0283d)
 
 As we are done with preparing database > we need to create Pivot tables.
 
-# DATA VISUALISATION - ADDING PIVOT TABLES
+### DATA VISUALISATION - ADDING PIVOT TABLES
 
-1.Go to ANALYSIS New Sheet> Insert Pivot Table> Name each Pivot Table Accordingly.
+1.Go to ANALYSIS New Sheet > Insert Pivot Table > Name each Pivot Table Accordingly.
 
 2.Create Pivot Table As Follow:
 
 * DAILY : Days with respect to Total selling price.
+
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/9b0c20dd-efd1-46ed-9b20-9e5176b2bdc9)
 
 * TOTAL PROFIT : To calculate total profit and profit percentage from given price > LINKING VALUE TO PIVOT TABLE WILL MAKE IT DYNAMIC .
@@ -76,7 +81,9 @@ As we are done with preparing database > we need to create Pivot tables.
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/b2720038-7790-47e2-b882-66bb898002b1)
 
 *PREPARE VISUALS
+
 1. Add SLICERS IN DASHBOARD > LINK ALL SLICERS TO EVERY PIVOT TABLE
+   
 2. Go To Slicer Tab> Report Connections> Select All Pivot Table We Want To Link.
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/fae364a8-ee7d-40ac-a2b7-a7ca95a98079)
@@ -91,8 +98,10 @@ As we are done with preparing database > we need to create Pivot tables.
 4. CALCULATE TOTAL SALES, TOTAL PROFIT, PROFIT PERCENTAGE AND FORMAT CELL ON MONTHLY BASIS BY CONNECTING IT TO MONTHLY PIVOT TABLE :
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/62715af2-ce59-4780-acb4-839eb0ce2f94)
-To add bar chart with total sales, total profit and profit percentage we need to connect all values for dynamic use.
-From INSERT(DEVELOPER TAB)> Add 3 Checkboxes, so that we can show or hide sales, profit or profit%. We need to add if function into our cell to link true or false condition with the table value so that our column chart look presentable.
+
+-To add bar chart with total sales, total profit and profit percentage we need to connect all values for dynamic use.
+
+-From INSERT(DEVELOPER TAB) > Add 3 Checkboxes, so that we can show or hide sales, profit or profit%. We need to add if function into our cell to link true or false condition with the table value so that our column chart look presentable.
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/2d1fce17-735f-440a-8336-aa7dcc26698a)
 
@@ -102,7 +111,7 @@ From INSERT(DEVELOPER TAB)> Add 3 Checkboxes, so that we can show or hide sales,
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/160f4af8-030e-4bc8-b3b2-f963b7d9f694)
 
-NOW INSERT THE CHART> FORMATTING>CONNECT WITH TABLE>FORMAT CHART
+- NOW INSERT THE CHART> FORMATTING>CONNECT WITH TABLE > FORMAT CHART
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/0d9467db-e0bd-43bb-b7f7-a4aa68ab4362)
 
@@ -135,9 +144,8 @@ NOW INSERT THE CHART> FORMATTING>CONNECT WITH TABLE>FORMAT CHART
 
 ![image](https://github.com/ishanimahajan20/ExcelProject/assets/134215344/5961a3ad-7f2a-49c7-ad6c-d0121ee8b29e)
 
-10. 
 
-# DASHBOARD MAKING 
+### DASHBOARD MAKING 
 
 Make a layout in powerpoint presentation.
 
@@ -150,7 +158,7 @@ Make a layout in powerpoint presentation.
 
 >> Do Check your each table is dynamic and clear .
 
-# OUTCOMES:
+
  
 
 
